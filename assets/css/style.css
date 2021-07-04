@@ -189,6 +189,7 @@ img{
 .home{
   height: calc(100vh - 3rem);
   row-gap: 1rem;
+  background-color: #FDCCEA;
 }
 .home__data{
   align-self: center;
@@ -219,7 +220,6 @@ img{
   bottom: 0;
   width: 295px;
 }
-
 /*BUTTONS*/
 .button{
   display: inline-block;
@@ -237,7 +237,6 @@ img{
 .about__container{
   row-gap: 2rem;
   text-align: center;
-
 }
 .about__subtitle{
   margin-bottom: var(--mb-2);
