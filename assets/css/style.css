@@ -189,7 +189,6 @@ img{
 .home{
   height: calc(100vh - 3rem);
   row-gap: 1rem;
-  background-color: #fff;
 }
 .home__data{
   align-self: center;
@@ -238,7 +237,7 @@ img{
 .about__container{
   row-gap: 2rem;
   text-align: center;
-  background-color: #f44040;
+
 }
 .about__subtitle{
   margin-bottom: var(--mb-2);
