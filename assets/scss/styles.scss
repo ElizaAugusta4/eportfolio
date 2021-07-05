@@ -3,7 +3,6 @@
     --font-semi: 600;
 }
 
-/*===== Colores =====*/
 :root{
     --first-color: #4070F4;
     --second-color: #0E2431;
@@ -66,7 +65,7 @@ a{
 img{
     max-width: 100%;
     height: auto;
-    display: block; // borra los espacios en blanco
+    display: block;
 }
 
 .section-title{
