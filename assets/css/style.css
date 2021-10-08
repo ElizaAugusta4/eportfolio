@@ -292,8 +292,20 @@ img{
 .skills__js{
   width: 65%;
 }
-.skills__ux{
+.skills__nodejs{
   width: 85%;
+}
+.skills__git{
+  width: 75%;
+}
+.skills__boostrap4{
+  width: 50%;
+}
+.skills__github{
+  width: 60%;
+}
+.skills__jquery{
+  width: 55%;
 }
 .skills__img{
   border-radius: .5rem;
