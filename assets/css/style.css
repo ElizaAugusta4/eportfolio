@@ -304,6 +304,9 @@ img{
 .skills__github{
   width: 60%;
 }
+.skills__react{
+  width: 90%;
+}
 .skills__jquery{
   width: 55%;
 }
