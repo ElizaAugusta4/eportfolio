@@ -284,19 +284,19 @@ img{
   z-index: var(--z-back);
 }
 .skills__html{
-  width: 95%;
+  width: 55%;
 }
 .skills__css{
-  width: 85%;
+  width: 55%;
 }
 .skills__js{
-  width: 65%;
+  width: 50%;
 }
 .skills__nodejs{
   width: 50%;
 }
 .skills__git{
-  width: 75%;
+  width: 45%;
 }
 .skills__bootstrap{
   width: 50%;
